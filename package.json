@@ -1,10 +1,10 @@
 {
   "name": "goproof",
-  "main": "./lib/proof",
+  "main": "./lib/goproof",
   "version": "0.0.0",
   "description": "Runs gofmt and goimports on Go source files",
   "author": "Mitchell Riley",
-  "repository": "https://github.com/mitchr/proof",
+  "repository": "https://github.com/mitchr/goproof",
 
   "keywords": [
     "golang",
@@ -14,5 +14,5 @@
   ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
+  }
 }
