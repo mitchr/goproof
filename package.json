@@ -1,7 +1,7 @@
 {
   "name": "goproof",
   "main": "./lib/goproof",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Runs gofmt and goimports on Go source files on save",
   "author": "Mitchell Riley",
   "repository": "https://github.com/mitchr/goproof",
